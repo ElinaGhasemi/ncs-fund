@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../../../../blinky"
+		},
+		{
+			"name": "ncs-fund",
+			"path": "../.."
+		},
+		{
+			"name": "fund_less3_exer1",
+			"path": "../../../../fund_less3_exer1"
+		},
+		{
+			"name": "test",
+			"path": "../../../../test"
+		}
+	],
+	"settings": {
+		"nrf-connect.applications": [
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson2/fund_less2_exer1",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson2/fund_less2_exer2",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson4/fund_less4_exer1",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson4/fund_less4_exer2",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson4/fund_less4_exer3",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson5/fund_less5_exer1",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson6/fund_less6_exer1",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson6/fund_less6_exer2",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson7/fund_less7_exer1",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson7/fund_less7_exer2",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson7/fund_less7_exer3",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson8/fund_less8_exer1",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson8/fund_less8_exer2"
+		],
+		"nrf-connect.debugging.bindings": {
+			"/home/elina/ncs/nordic/fund_less3_exer1/build": "Launch fund_less3_exer1/build",
+			"/home/elina/ncs/nordic/Ex2/ncs-fund/v2.x.x/lesson4/fund_less4_exer2/build": "Launch fund_less4_exer2/build"
+		}
+	}
+}
